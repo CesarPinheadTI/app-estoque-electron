@@ -1,0 +1,13 @@
+* { /* Seletor universal que afeta todos os elementos da página */
+  box-sizing: border-box; /* Define que o padding e a borda não aumentam o tamanho total do elemento */
+  padding: 0; /* Remove todo o espaçamento interno dos elementos */
+  margin: 0; /* Remove todo o espaçamento externo dos elementos */
+  font-family: Arial; /* Define a fonte padrão como Arial para todos os elementos */
+}
+/* Header */
+.card-header { /* Estilo para elementos com classe 'header' */
+  background-color: #4B89DC; /* Define a cor de fundo como azul */
+  color: white; /* Define a cor do texto como branco */
+  padding: 20px 0; /* Adiciona espaçamento interno de 20px no topo e base, sem espaçamento nas laterais */
+  text-align: center; /* Centraliza o texto horizontalmente */
+}

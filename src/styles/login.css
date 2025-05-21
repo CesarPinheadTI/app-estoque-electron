@@ -84,22 +84,3 @@ input:focus-visible {
     display: flex;
     justify-content: center;
 }
-/*
-
-.buttondelete { 
-    background-color: rgb(255, 255, 255);
-    font-weight: bold;
-    padding: 2px 2px 0;
-    border: 2px solid rgb(175, 0, 0);
-    border-radius: 100px;
-    margin-left: 10px;
-}
-.buttondelete:focus-visible {
-    outline: 2px solid rgb(143, 3, 3);
-    border-radius: 3px;
-    border-radius: 100px;
-}
-
-.buttondelete:hover {
-    background-color: rgb(255, 100, 100);
-}*/

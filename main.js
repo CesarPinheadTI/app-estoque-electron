@@ -7,7 +7,7 @@ const createWindow = () => {
     resizable: false
   })
 
-  win.loadFile('src/pages/estoque.html')
+  win.loadFile('src/pages/cadastro.html')
 }
 
 app.whenReady().then(() => {
